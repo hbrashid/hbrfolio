@@ -12,7 +12,7 @@ module.exports = {
     siteTitleAlt: `Hassan Rashid - Portfolio`,
     siteDescription: `Hassan Rashid - Portfolio - Software Engineer`,
     siteUrl: `https://hassanrashid.netlify.app/`,
-    siteImage: `Headshot.png`,
+    siteImage: `/Headshot.png`,
   },
   plugins: [
     {
