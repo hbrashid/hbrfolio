@@ -10,6 +10,8 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Hassan Rashid - Portfolio`,
+    siteDescription: `Hassan Rashid - Portfolio - Software Engineer`,
+    siteImage: `public/favicon.png`,
   },
   plugins: [
     {
