@@ -11,7 +11,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Hassan Rashid - Portfolio`,
     siteDescription: `Hassan Rashid - Portfolio - Software Engineer`,
-    siteUrl: `https://hassanrashid.netlify.app`,
+    siteUrl: `https://hassanrashid.netlify.app/`,
     siteImage: `/favicon.png`,
   },
   plugins: [
