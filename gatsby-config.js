@@ -36,7 +36,7 @@ module.exports = {
         icons: [
           {
             src: `/favicon.png`,
-            sizes: `48x48`,
+            sizes: `32x32`,
             type: `image/png`,
           },
           // {
